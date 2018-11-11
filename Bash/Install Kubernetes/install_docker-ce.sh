@@ -44,4 +44,5 @@ sudo usermod -aG docker ${USER}
 su - ${USER}
 
 # Confirm that your user is now added to the docker group by typing
-id -nG
+id -nG  
+
